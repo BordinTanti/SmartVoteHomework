@@ -13,4 +13,6 @@
     <string name="minutes">นาที</string>
     <string name="seconds">วินาที</string>
     <string name="next">ถัดไป</string>
+    <string name="enterCitizenNum">กรอกเลขบัตรประชาชน</string>
+    <string name="check">ตรวจสอบสิทธิการเลือกตั้ง</string>
 </resources>

@@ -12,4 +12,6 @@
     <string name="minutes">Minutes</string>
     <string name="seconds">Seconds</string>
     <string name="next">next</string>
+    <string name="enterCitizenNum">กรอกเลขบัตรประชาชน</string>
+    <string name="check">ตรวจสอบสิทธิการเลือกตั้ง</string>
 </resources>
